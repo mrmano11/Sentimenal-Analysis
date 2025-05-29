@@ -20,6 +20,11 @@ This system analyzes real-time input (via camera, microphone, or text) and class
 The model is trained on a custom labeled dataset available on Kaggle:  
 📂 [Sentimental Analysis Dataset](https://www.kaggle.com/datasets/mohanarengans/sentimental-analysis)
 
+## 📊 Model.h5 File
+
+📂[Model.h5](https://drive.google.com/file/d/1qRH6sIYtEdQTnfoRIzvjAsjtvu1PIFMW/view?usp=drive_link)
+
+
 ## 🌟 Key Features
 
 ✅ Real-time sentiment classification  
