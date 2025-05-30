@@ -38,7 +38,7 @@ The model is trained on a custom labeled dataset available on Kaggle:
 | Tool            | Purpose                               |
 |-----------------|----------------------------------------|
 | Python          | Core language                          |
-| OpenCV          | For webcam input (if used)             |
+| OpenCV          | For webcam input                       |
 | TensorFlow/Keras| Deep learning model                    |
 | Keras Tuner     | Hyperparameter optimization            |
 | NumPy, Pandas   | Data processing                        |
